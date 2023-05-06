@@ -49,7 +49,7 @@ Thumbs.db
 *.wmv
 
 # Local Data
-*.csv
+# *.csv
 
 # Virtual Environments
 /venv
